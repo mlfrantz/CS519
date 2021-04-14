@@ -1,2 +1,2 @@
 # CS519
-# Machine lEarning course at Oregon State University
+# Machine Learning course at Oregon State University
